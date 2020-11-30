@@ -1,0 +1,132 @@
+li
+{
+  background-color: FF6633;
+}
+.fa-facebook 
+{
+  background: #3B5998 ;
+  color: white;
+  size: 50%;
+  border-radius: 12px;
+}
+.fa-youtube
+{
+  background: #bb0000;
+  color: white;
+  border-radius: 12px;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+    border-radius: 12px;
+
+}
+.fa-instagram {
+  background: #DD2A7B;
+  color: white;
+    border-radius: 12px;
+
+}
+.submit-button
+{
+width:25%;
+background-color:FF6633;
+border-radius: 12px;
+}
+.submit-button:hover{
+background-color:FF6633;
+COLOR:WHITE;
+}
+.row
+{
+background-color:FF6633;
+}
+.fa{padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.worklogo
+{
+  width: 100%;
+  background-color: FF6633;
+}
+section
+{
+width: 100%;
+background-color: FF6633;
+}
+h1
+{
+color: white;
+}
+header
+{
+  background-color: FF6633;
+  position: fixed;
+  width: 100%;
+  z-index:1;
+}
+.noscelogo
+{
+  padding: 15px;
+  border-radius: 12px;
+  
+}
+footer
+{
+  background-color: #333;
+  width:100%;
+}
+.description
+{
+  margin-left: 20px;
+  font-family: Sans-Serif;
+}
+input
+{
+  border-radius: 8px;
+  border-color: FF6633;
+}
+textarea
+{
+  border-radius: 8px;
+  border-color: FF6633;
+}
+.quicklink
+{
+background-color: white;
+color:black;
+padding-top:10px;
+}
+html
+{
+scroll-behavior: smooth;
+}
+.carousel-indicators
+{
+z-index: 0;
+}
+.nav-link {
+  background-color: FF6633; /* orange */
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.nav-link {
+  color: black; 
+
+}
+
+.nav-link:hover {
+  background-color: black;
+  color: white;
+}
